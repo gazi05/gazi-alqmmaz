@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gazi05 .
+- 👀 I’m interested in AI , web development .
+- 🌱 I’m currently learning pyhton , c++ .
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me --> instagram : @ gazi.alqmmaz
